@@ -15,3 +15,9 @@ All configuration required is available in the input component. The workflow wil
 
 The workflow can also be executed in batch mode using the command line:
 [knime path]\knime -reset -nosplash -nosave -application org.knime.product.KNIME_BATCH_APPLICATION -workflowDir="[knime path]\knime-workspace\QSAR-ready_2.5.6" -workflow.varaiable=cmd_input,"[input path]\inputfile",String
+
+References:
+
+[1] Mansouri, K. et al. J Cheminform (2024) https://doi.org/10.1186/s13321-024-00814-3
+
+[2] Mansouri K. et al. J Cheminform (2018) https://doi.org/10.1186/s13321-018-0263-1.
